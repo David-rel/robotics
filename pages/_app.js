@@ -13,9 +13,7 @@ function MyApp({ Component, pageProps }) {
     <SessionContextProvider 
     supabaseClient={supabase}
     >
-      <NextUIProvider>
       <Component {...pageProps} />
-      </NextUIProvider>
     </SessionContextProvider>
 
   )
