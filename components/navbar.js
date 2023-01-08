@@ -22,22 +22,22 @@ function navbar() {
         <div class="flex items-center">
             <ul class="flex flex-row mt-0 mr-6 space-x-10 text-sm font-medium">
                 <li>
-                    <a href="#" class="text-gray-900 dark:text-white hover:underline" aria-current="page">Home</a>
+                    <a href="/" class="text-gray-900 dark:text-white hover:underline" aria-current="page">Home</a>
                 </li>
                 <li>
-                    <a href="#" class="text-gray-900 dark:text-white hover:underline">Company</a>
+                    <a href="/About" class="text-gray-900 dark:text-white hover:underline">About</a>
                 </li>
                 <li>
-                    <a href="#" class="text-gray-900 dark:text-white hover:underline">Team</a>
+                    <a href="/Team" class="text-gray-900 dark:text-white hover:underline">Team</a>
                 </li>
                 <li>
-                    <a href="#" class="text-gray-900 dark:text-white hover:underline">Robots</a>
+                    <a href="/Robots" class="text-gray-900 dark:text-white hover:underline">Robots</a>
                 </li>
                 <li>
                     <a href="https://www.firstinspires.org/robotics/frc" class="text-gray-900 dark:text-white hover:underline">FIRST</a>
                 </li>
                 <li>
-                    <a href="#" class="text-gray-900 dark:text-white hover:underline">Scouter</a>
+                    <a href="/Scouter" class="text-gray-900 dark:text-white hover:underline">Scouter</a>
                 </li>
             </ul>
         </div>
